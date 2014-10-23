@@ -1,7 +1,7 @@
 {
   "name": "koa-latency-headers",
-  "version": "0.0.1",
-  "description": "Add latency headers to koa response",
+  "version": "0.0.2",
+  "description": "Add latency headers to koa",
   "main": "index.js",
   "author": "Montana Flynn",
   "license": "ISC",
