@@ -9,6 +9,10 @@ This middleware adds two headers to the response.
 
 ## Example
 
+```shell
+npm install koa-latency-headers --save
+```
+
 ```javascript
 var koa = require('koa')
 var app = koa()
